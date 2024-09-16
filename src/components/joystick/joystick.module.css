@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.heightStick {
+  margin: auto;
+  /* transform: rotate(90deg); */
+}

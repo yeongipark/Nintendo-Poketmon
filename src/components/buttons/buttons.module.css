@@ -1,0 +1,22 @@
+.container {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+.vertical {
+  position: absolute;
+  height: 150px;
+  left: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.horizon {
+  width: 150px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  top: 50px;
+}

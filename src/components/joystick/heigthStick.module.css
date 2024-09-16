@@ -1,0 +1,23 @@
+.heightStick {
+  width: 30px;
+  height: 130px;
+  background-color: var(--main-pink-color);
+  position: absolute;
+  left: 50px;
+  padding: 10px;
+}
+
+.whiteStickWrap {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.whiteStick {
+  width: 3px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: white;
+}
